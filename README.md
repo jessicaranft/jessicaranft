@@ -18,7 +18,7 @@ I'm a Web Developer specialized in Front-End, but I also have back-end skills.<b
 
 
 ## 🛠 Skills
-`Javascript` `React` `Node` `HTML` `CSS` `Git & GitHub` `Figma` `WordPress` `Adobe Suite`
+`Javascript/TypeScript` `React` `Next.js` `Node` `HTML` `CSS` `Git & GitHub` `Figma` `WordPress` `Adobe Suite`
 
 
 ## How to reach me
