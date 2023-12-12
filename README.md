@@ -29,10 +29,6 @@ Junior Front End Developer with focus on React.js. I have developed a countless 
 ✔️ Teaching experience (more than 10 years);<br>
 ✔️ Passionate about learning.
 
-<strong>Hobbies:</strong>
-- Playing Classical Piano music
-- RPGs
-
 <strong>You might like to know:</strong><br>
 🌐 I'm a British National (UK passport holder) and fully eligible to work in the UK.
 
@@ -40,10 +36,12 @@ Junior Front End Developer with focus on React.js. I have developed a countless 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jess-r.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-ranft/)
 
-
 ## 🛠 Skills
 `TypeScript` `React` `Next.js` `Node` `HTML` `CSS-in-JS` `TailwindCSS` `API Rest` `Git & GitHub` `Figma` `WordPress`
 
+## Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaranft&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me
 
