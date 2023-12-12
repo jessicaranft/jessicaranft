@@ -4,13 +4,37 @@
 
 # Hi, I'm Jessica Ranft 👋
 
-I'm a Web Developer specialized in Front-End, but I also have back-end skills.<br><br>
-🖥️ I started working as a freelance Web Designer/Developer at the age of 15 with self-taught skills in HTML and CSS, and continued working with that for the next 8 years.<br>
-🧠 My main stacks are React.js for front-end development, and Node.js for back-end development.<br>
-🎨 I love creating designs on Figma and transforming them into fully-coded websites.<br>
-📝 I also create websites with WordPress.<br>
-🎹 Fun fact: I'm a former classical pianist and my side-hobby is creating music arrangements for piano.<br>
+Junior Front End Developer with focus on React.js. I have developed a countless number of web apps for the last year, including bootcamp projects, solutions for customers (freelance projects), and personal projects for self-development and quality of work improvement.
 
+🔥 My portfolio: https://jess-r.dev
+
+<strong>Experience with:</strong>
+
+✔️ TypeScript and CSS-In-JS (styled-components, stitches);<br>
+✔️ TailwindCSS;<br>
+✔️ API Rest;<br>
+✔️ State management (custom hooks, context API);<br>
+✔️ Writing reusable components;<br>
+✔️ Writing UI components with Storybook;<br>
+✔️ Coding Figma prototypes into fully-functioning web apps using HTML, CSS, and JavaScript;<br>
+✔️ WordPress and Elementor;<br>
+✔️ Back-end skills (Node.js, SQL, database modelling);<br>
+✔️ Git & GitHub.
+
+<strong>Other Skills:</strong>
+
+✔️ Experience working remotely;<br>
+✔️ Experience working with English-speaking customers and teams;<br>
+✔️ High attention to visual details;<br>
+✔️ Teaching experience (more than 10 years);<br>
+✔️ Passionate about learning.
+
+<strong>Hobbies:</strong>
+- Playing Classical Piano music
+- RPGs
+
+<strong>You might like to know:</strong><br>
+🌐 I'm a British National (UK passport holder) and fully eligible to work in the UK.
 
 ## 🔗 More about me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jess-r.dev)
@@ -18,7 +42,7 @@ I'm a Web Developer specialized in Front-End, but I also have back-end skills.<b
 
 
 ## 🛠 Skills
-`Javascript/TypeScript` `React` `Next.js` `Node` `HTML` `CSS` `Git & GitHub` `Figma` `WordPress` `Adobe Suite`
+`TypeScript` `React` `Next.js` `Node` `HTML` `CSS-in-JS` `TailwindCSS` `API Rest` `Git & GitHub` `Figma` `WordPress`
 
 
 ## How to reach me
